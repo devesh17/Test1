@@ -1,4 +1,4 @@
-
+// creatung new branch
 input_count = int(input())
 seat_plan = {1:"WS",2:"MS",3:"AS",4:"AS",5:"MS",0:"WS"}
 
